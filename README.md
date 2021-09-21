@@ -1,8 +1,26 @@
-# Getting Started with Create React App
+# Getting Started with the Assignment Project for Shopify Assessment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Start Backend
 
-## Available Scripts
+Make sure you have MongoDB installed on your Local computer and the status is running.
+
+Now go to the backend folder and run:
+
+### `npm start`
+
+The backend should start at port 8000
+
+## Start Frontend
+
+Now come back to the root folder where there is another Package.JSON and run:
+
+### `npm start`
+
+The frontend should start at port 3000
+
+Now you will be able to add images and view the same at http://localhost:8000/endpoint
+
+## Other Available Scripts
 
 In the project directory, you can run:
 
